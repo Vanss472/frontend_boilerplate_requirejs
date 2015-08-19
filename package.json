@@ -1,0 +1,14 @@
+{
+  "name": "frontend_boilerplate_requirejs",
+  "version": "0.0.1",
+  "description": "Front End boilerplate using RequireJS",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server/server.js"
+  },
+  "author": "Vanessa Martinez",
+  "license": "BSD",
+  "dependencies": {
+    "express": "^4.13.3"
+  }
+}
